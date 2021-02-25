@@ -1,18 +1,30 @@
-{
-"Anime": "Naruto",
-"Episodio": "05",
-"Status": "ok",
 
-"Anime": "Sakura",
-"Episodio": "001",
-"Status": "não",
+ [
+  {
+    "Anime": "Naruto",
+  "Episodio": "05",
+  "Status": "ok"
+  } ,
 
-"Anime": "dragon",
-"Episodio": "059",
-"Status": "vi",
+  {
+    "Anime": "Sakura",
+  "Episodio": "001",
+  "Status": "não"
+  },
 
-"Anime": "one",
-"Episodio": "962",
-"Status": "falta assistir"
+  {
+    "Anime": "dragon",
+    "Episodio": "059",
+    "Status": "vi"
+  },
 
-}
+  {
+    "Anime": "one",
+  "Episodio": "962",
+  "Status": "falta assistir"
+  }
+
+ ] 
+
+
+
