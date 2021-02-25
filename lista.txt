@@ -1,0 +1,23 @@
+let anime = [
+  {
+  Nome: "Smile",
+  Episodio: 01,
+  Status: "Assistido"
+
+  },
+
+  {
+    Nome: "Naruto",
+    Episodio: 02,
+    Status: "Ok"
+  
+  },
+
+  {
+    Nome: "Dragon",
+    Episodio: 03,
+    Status: "Não vi"
+  
+  }, 
+  
+]
