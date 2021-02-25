@@ -1,4 +1,4 @@
-let teste = fetch('./lista.txt');
+let teste = fetch('./teste.json');
 
 teste.then(resolve =>{
   console.log(resolve)
@@ -6,7 +6,7 @@ teste.then(resolve =>{
 })
 .then(resposta =>{
   const conteudo = document.querySelector('.conteudo');
-conteudo.innerHTML = resposta;
+  conteudo.innerHTML = resposta;
   console.log(resposta)
 })
 
